@@ -1,0 +1,133 @@
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://fr.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Suivre tous les marchés sur TradingView</span></a></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "proName": "FOREXCOM:SPXUSD",
+      "title": "S&P 500"
+    },
+    {
+      "description": "BTC/USD",
+      "proName": "BITSTAMP:BTCUSD"
+    },
+    {
+      "description": "AUD/CAD",
+      "proName": "FX:AUDCAD"
+    },
+    {
+      "description": "AUD/CHF",
+      "proName": "FX:AUDCHF"
+    },
+    {
+      "description": "AUD/JPY",
+      "proName": "FX:AUDJPY"
+    },
+    {
+      "description": "AUD/NZD",
+      "proName": "FX:AUDNZD"
+    },
+    {
+      "description": "AUD/USD",
+      "proName": "FX:AUDUSD"
+    },
+    {
+      "description": "CAD/CHF",
+      "proName": "FX:CADCHF"
+    },
+    {
+      "description": "CAD/JPY",
+      "proName": "FX:CADJPY"
+    },
+    {
+      "description": "CHF/JPY",
+      "proName": "FX:CHFJPY"
+    },
+    {
+      "description": "EUR/AUD",
+      "proName": "FX:EURAUD"
+    },
+    {
+      "description": "EUR/CAD",
+      "proName": "FX:EURCAD"
+    },
+    {
+      "description": "EUR/CHF",
+      "proName": "FX:EURCHF"
+    },
+    {
+      "description": "EUR/GBP",
+      "proName": "FX:EURGBP"
+    },
+    {
+      "description": "EUR/JPY",
+      "proName": "FX:EURJPY"
+    },
+    {
+      "description": "EUR/NZD",
+      "proName": "FX:EURNZD"
+    },
+    {
+      "description": "EUR/USD",
+      "proName": "FX:EURUSD"
+    },
+    {
+      "description": "GBP/AUD",
+      "proName": "FX:GBPAUD"
+    },
+    {
+      "description": "GBP/CAD",
+      "proName": "FX:GBPCAD"
+    },
+    {
+      "description": "GBP/CHF",
+      "proName": "FX:GBPCHF"
+    },
+    {
+      "description": "GBP/JPY",
+      "proName": "FX:GBPJPY"
+    },
+    {
+      "description": "GBP/NZD",
+      "proName": "FX:GBPNZD"
+    },
+    {
+      "description": "GBP/USD",
+      "proName": "FX:GBPUSD"
+    },
+    {
+      "description": "NZD/CAD",
+      "proName": "FX:NZDCAD"
+    },
+    {
+      "description": "NZD/CHF",
+      "proName": "FX:NZDCHF"
+    },
+    {
+      "description": "NZD/USD",
+      "proName": "FX:NZDUSD"
+    },
+    {
+      "description": "USD/CAD",
+      "proName": "FX:USDCAD"
+    },
+    {
+      "description": "USD/CHF",
+      "proName": "FX:USDCHF"
+    },
+    {
+      "description": "USD/JPY",
+      "proName": "FX:USDJPY"
+    }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "dark",
+  "isTransparent": true,
+  "displayMode": "regular",
+  "locale": "fr"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
